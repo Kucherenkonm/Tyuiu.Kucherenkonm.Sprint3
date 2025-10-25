@@ -1,4 +1,4 @@
-﻿using Tyuiu.Kucherenkonm.Sprint1.Task0.V30.Lib;
+﻿using Tyuiu.Kucherenkonm.Sprint3.Task0.V30.Lib;
 internal class Program
 {
     static void Main(string[] args)
@@ -25,7 +25,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine(" Произведение ряда = " + ds.GetMultiplySeries(startValue,stopValue));
+        Console.WriteLine(" Произведение ряда = " + ds.GetMultiplySeries(startValue, stopValue));
         Console.ReadKey();
 
     }

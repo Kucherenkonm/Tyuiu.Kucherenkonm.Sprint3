@@ -1,5 +1,5 @@
-﻿using Tyuiu.Kucherenkonm.Sprint1.Task0.V30.Lib;
-namespace Tyuiu.Kucherenkonm.Sprint1.Task0.V30.Test
+﻿using Tyuiu.Kucherenkonm.Sprint3.Task0.V30.Lib;
+namespace Tyuiu.Kucherenkonm.Sprint3.Task0.V30.Test
 {
     [TestClass]
     public sealed class DataServiceTest

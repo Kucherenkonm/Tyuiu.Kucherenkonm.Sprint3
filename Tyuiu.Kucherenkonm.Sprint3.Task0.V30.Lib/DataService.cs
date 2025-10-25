@@ -1,5 +1,5 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint3;
-namespace Tyuiu.Kucherenkonm.Sprint1.Task0.V30.Lib
+namespace Tyuiu.Kucherenkonm.Sprint3.Task0.V30.Lib
 {
     public class DataService : ISprint3Task0V30
     {
@@ -11,7 +11,7 @@ namespace Tyuiu.Kucherenkonm.Sprint1.Task0.V30.Lib
             {
                 series = series * i * (Math.Pow(Math.Sin(1), 10));
             }
-            return Math.Round(series,3);
+            return Math.Round(series, 3);
         }
     }
 }
