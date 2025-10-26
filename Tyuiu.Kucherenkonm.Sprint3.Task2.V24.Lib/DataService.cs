@@ -9,7 +9,7 @@ namespace Tyuiu.Kucherenkonm.Sprint3.Task2.V24.Lib
             value = 0.25;
             do
             {
-                multiplySeries = multiplySeries * (Math.Pow(value, startValue) + 4) * Math.Cos(startValue);
+                multiplySeries = multiplySeries * (Math.Pow(value, startValue) + 4) * Math.Cos(value);
                 startValue++;
             }
             while(startValue<=stopValue);
