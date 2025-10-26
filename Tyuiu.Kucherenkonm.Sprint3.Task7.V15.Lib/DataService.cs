@@ -12,7 +12,7 @@ namespace Tyuiu.Kucherenkonm.Sprint3.Task7.V15.Lib
             int count = 0;
             for (int x = startValue; x <= stopValue; x++)
             {
-                y = Math.Round(Math.Sin(x) + (2 * x / 3) - Math.Cos(x) * 4 * x, 2);
+                y = Math.Round(Math.Sin(x) + (2.0 * x / 3.0) - Math.Cos(x) * 4 * x, 2);
                 valueArray[count] = y;
                 count++;
             }
