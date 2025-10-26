@@ -8,7 +8,7 @@ internal class Program
         Console.Title = "Спринт #3 | Выполнила: Кучеренко Н. М. | ИИПб - 25 - 1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #3                                                               *");
-        Console.WriteLine("* Тема:                         Вложенные циклы                           *");
+        Console.WriteLine("* Тема:                        Вложенные циклы                            *");
         Console.WriteLine("* Задание #5                                                              *");
         Console.WriteLine("* Вариант #27                                                             *");
         Console.WriteLine("* Выполнила: Кучеренко Надежда Михайловна | ИИПб - 25 - 1                 *");
